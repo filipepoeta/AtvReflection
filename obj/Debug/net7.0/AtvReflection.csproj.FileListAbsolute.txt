@@ -1,0 +1,15 @@
+C:\Ada\AtvReflection\bin\Debug\net7.0\AtvReflection.exe
+C:\Ada\AtvReflection\bin\Debug\net7.0\AtvReflection.deps.json
+C:\Ada\AtvReflection\bin\Debug\net7.0\AtvReflection.runtimeconfig.json
+C:\Ada\AtvReflection\bin\Debug\net7.0\AtvReflection.dll
+C:\Ada\AtvReflection\bin\Debug\net7.0\AtvReflection.pdb
+C:\Ada\AtvReflection\obj\Debug\net7.0\AtvReflection.csproj.AssemblyReference.cache
+C:\Ada\AtvReflection\obj\Debug\net7.0\AtvReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ada\AtvReflection\obj\Debug\net7.0\AtvReflection.AssemblyInfoInputs.cache
+C:\Ada\AtvReflection\obj\Debug\net7.0\AtvReflection.AssemblyInfo.cs
+C:\Ada\AtvReflection\obj\Debug\net7.0\AtvReflection.csproj.CoreCompileInputs.cache
+C:\Ada\AtvReflection\obj\Debug\net7.0\AtvReflection.dll
+C:\Ada\AtvReflection\obj\Debug\net7.0\refint\AtvReflection.dll
+C:\Ada\AtvReflection\obj\Debug\net7.0\AtvReflection.pdb
+C:\Ada\AtvReflection\obj\Debug\net7.0\AtvReflection.genruntimeconfig.cache
+C:\Ada\AtvReflection\obj\Debug\net7.0\ref\AtvReflection.dll
